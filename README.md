@@ -144,6 +144,6 @@ El plan del proyecto está ordenado por semanas y se resaltaron las fechas de en
 
 ## 7. BibliografÃ­a
 
-No fue posible subir todo el proyecto aqui porque pesa mas de 15 GB y debido a que GitHub no dejaba subir ni actualizar el repositorio decidimos solo subir manualmente lo mas importante para que el juego funcione: la carpeta Source, que contiene todo el código del juego (controles, zonas de interacción, mecánicas, etc.), y el archivo principal del proyecto .uproject, que sirve para abrirlo en Unreal Engine.
+No fue posible subir todo el proyecto aqui porque pesa mas de 15 GB y debido a que GitHub no dejaba subir ni actualizar el repositorio decidimos solo subir manualmente lo mas importante para que el juego funcione: la carpeta Source, que contiene todos los codigos c++ utilizados dentro del juego (controles, zonas de interacción, mecánicas, colisiones, etc.), y el archivo principal del proyecto .uproject, que sirve para abrirlo en Unreal Engine.
 
 [Cada fuente debe ser citada de manera correcta, siguiendo el formato APA.]: # 
