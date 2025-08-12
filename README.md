@@ -130,7 +130,6 @@ Para el diseño de los personajes queríamos que tuvieran un estilo retro de dib
 Algo que es importante resaltar es que se hizo el diseño de personajes en 3D y en 2D para ver cual de los dos estilos se ven mejor.
 
 ![Captura de pantalla 2025-06-23 225934](https://github.com/user-attachments/assets/ebcecddf-c433-4ea4-8a9d-c22d46a21d82)
-![spin](https://github.com/user-attachments/assets/9eadad7e-e341-4603-9466-fe5490971f7d)
 ![3](https://github.com/user-attachments/assets/2eb21c1d-ee52-4fcd-8495-7dccfb0e04c5)
 ![2](https://github.com/user-attachments/assets/f0301b79-ac65-407e-a017-1c8fca97318a)
 
