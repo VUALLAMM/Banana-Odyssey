@@ -1,4 +1,4 @@
-# ProyectoBANANA
+# BANANA ODYSSEY
 **Desarrolladores:**
 
 [Escribe los nombres de los integrantes de tu equipo.]: # 
