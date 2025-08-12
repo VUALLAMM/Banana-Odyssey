@@ -42,18 +42,17 @@ A lo largo de los niveles, el jugador deberá de ser el salvador de nuestro quer
 ## 2. Jugabilidad
 
 [Escribe un resumen de mÃ­nimo 150 palabras. Incluye al menos una imagen para ilustrar los controles.]: # 
-La jugabilidad es sencilla, el jugador controla a un plátano que debe escapar del gato Félix. Los controles son sencillos e intuitivos: se usa W, A, S y D para moverse, espacio para saltar y el clic del mouse para lanzar atacar, todo con el objetivo de escapar del malvado gato.
+La jugabilidad es sencilla, el jugador controla a un plátano que debe escapar del gato Félix. Los controles son sencillos e intuitivos: se usa W, A, S y D para moverse y dar un salto y el clic del mouse para hacer un movimiento especial el cual le permite a PIT hacerse bolita y saltar más lejos, todo con el objetivo de escapar del malvado gato.
 El jugador deberá atravesar niveles llenos de obstáculos, plataformas, trampas y enemigos menores, mientras trata de seguir con vida. Se busca que todos estos elementos sirvan para obligar al jugador a reaccionar con rapidez y precisión.
 A medida que se avanza en el juego, se desbloquean nuevos escenarios. El juego combina acción, agilidad y humor, ofreciendo una experiencia accesible pero desafiante.
 
-Saltar: Espacio
-
-Wasd: Movimiento
+Wasd: Movimiento y salto
 
 
-Click izquierdo: atacar
+Click izquierdo: Movimiento especial.
 
-![controles](https://github.com/user-attachments/assets/a00abb99-4722-4d52-83f5-c903002c4229)
+<img width="2560" height="1440" alt="Saltar" src="https://github.com/user-attachments/assets/c7269c38-a4d5-4be5-a61b-cf4be83c2900" />
+
 
 
 ## 3. Mundo del juego
