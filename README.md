@@ -1,4 +1,6 @@
 # BANANA ODYSSEY
+
+AVISO: UNREAL no nos dejó  hacer el ejecutable en HTML así que en itch.io se subió un ejecutable para windows.
 **Desarrolladores:**
 
 [Escribe los nombres de los integrantes de tu equipo.]: # 
