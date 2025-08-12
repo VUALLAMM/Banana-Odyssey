@@ -74,20 +74,16 @@ Para el mundo del juego se busca crear una atmosfera muy común, se pensó en un
 El juego es una aventura de plataformas en 2D protagonizada por Pit, una banana que intenta escapar desesperadamente de Félix, un gato hambriento que lo perseguirá a lo largo de diversos entornos dentro de una casa. El objetivo principal del jugador es evadir al gato y sobrevivir usando agilidad, reflejos y el aprovechamiento inteligente de las mecánicas únicas de cada sección
 
 Controles Principales
-WASD – Movimiento
+WASD – Movimiento y salto
 
-Espacio – Salto
-
-Click Izquierdo – Ataque
+Click Izquierdo – Movimiento especial.
 
 Mecánica Central: Velocidad Dinámica
 Una de las mecánicas más relevantes del juego es la manipulación de la velocidad del personaje mediante el sistema de ataque que funciona como dash.
 
 La velocidad base del personaje es 1.
 
-Al utilizar el dash (ataque), la velocidad aumenta temporalmente en +0.25 por cada uso consecutivo.
-
-La velocidad máxima es 2.
+Al utilizar el dash (ataque), la velocidad aumenta temporalmente.
 
 Si el personaje permanece en el suelo sin usar dash, su velocidad se reduce progresivamente en -0.25 por segundo, hasta volver a 1.
 
@@ -104,7 +100,7 @@ Si el gato alcanza a Pit, el jugador sufre daño hasta perder.
 Introduce la tensión principal del juego: persecución constante
 
 Nivel 1 – Sección 1: Baño (Piso Mojado)
-El piso está completamente mojado, y Pit entra en estado de deslizamiento automático.
+El piso está completamente mojado, y Pit entra en estado de movimiento automatico, lo cual no permite detenerse, tu tarea es evitar chocar con los obstáculos del baño.
 
 Durante esta sección:
 
